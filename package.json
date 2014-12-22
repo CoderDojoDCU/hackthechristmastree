@@ -1,0 +1,9 @@
+{ 
+	"name": "hackthetree",
+	"description": "Hack a Christmas Tree",
+	"version": "1.0.0",
+	"dependencies" : {
+		"galileo-io" : "0.6.1",
+		"twit": "1.1.18"
+  	}
+}

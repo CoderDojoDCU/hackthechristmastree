@@ -1,4 +1,4 @@
-hackthechristmastree
-====================
+hackthetree
+===========
 
-Christmas Tree Hack Repo
+CoderDojo Intel Galileo Hack the Christmas Tree Week
